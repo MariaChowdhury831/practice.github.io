@@ -1,5 +1,5 @@
 ---
-title: "[Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach](https://ieeexplore.ieee.org/abstract/document/10101490)"
+title: "[#Recognition of leukemia sub-types using transfer learning and extraction of distinguishable features using an effective machine learning approach](https://ieeexplore.ieee.org/abstract/document/10101490)"
 collection: publications
 category: conferences
 permalink: /publication/2023-02-23-leukemia-subtypes
