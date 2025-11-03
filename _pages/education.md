@@ -1,8 +1,11 @@
 
 ---
-title: Education
+
+title: "Education "
 permalink: /education/
-layout: page
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 # Education
