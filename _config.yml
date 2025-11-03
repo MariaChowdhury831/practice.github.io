@@ -23,7 +23,7 @@ repository               : "MariaChowdhury831/practice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Maria Chowdhury"
   pronouns         : # example: "she/her"  
   bio              : "Prospective PhD student"
