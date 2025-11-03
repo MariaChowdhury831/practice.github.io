@@ -9,6 +9,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
 You can view my CV in PDF format below:
 
