@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My primary research interests lie at the intersection of **Human-Computer Interaction (HCI)**, **Social Computing**,**Computer-Supported Cooperative Work (CSCW)**, and **Health Informatics**, with a focus on **Ethics** and **AI**.
-
+<br>
 I'm particularly interested in understanding how social media and digital technologies shape the way people communicate, behave, and connect. I'm passionate about creating accessible learning and collaborative technologies for individuals with physical and intellectual disabilities, as well as older adults.
 
 
